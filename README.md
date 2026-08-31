@@ -8,6 +8,8 @@ Official repository for the AAAI2025 paper  *Can We Get Rid of Handcrafted Featu
 
 In summary, SparseViT leverages the distinction between semantic and non-semantic features, enabling the model to adaptively extract non-semantic features that are more critical for image manipulation localization. This provides a novel approach to precisely identifying manipulated regions.
 
+📝 **Blog**: [分久必合：统一的伪造图像检测（Unified FID）](https://knightzjz.github.io/blog/unified-fid.html) — a systematic discussion on unifying fake image detection across the AIGC, Deepfake, IMDL and document forgery sub-domains.
+
 ## Dataset Preparation
 
 <details>
